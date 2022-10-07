@@ -1,4 +1,7 @@
 # Usage: pip install -r requirements.txt
+tkinder
+yolov7
+mediapipe
 
 # Base ----------------------------------------
 matplotlib>=3.2.2
@@ -20,7 +23,6 @@ tensorboard>=2.4.1
 # Plotting ------------------------------------
 pandas>=1.1.4
 seaborn>=0.11.0
-
 
 # Extras --------------------------------------
 ipython  # interactive notebook
